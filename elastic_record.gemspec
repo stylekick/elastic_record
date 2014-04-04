@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = ElasticRecord::VERSION
   spec.authors       = ["Anand"]
   spec.email         = ["anand180@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
+  spec.summary       = %q{ActiveModel API for ElasticSearch}
   spec.description   = %q{TODO: Write a longer description. Optional.}
   spec.homepage      = ""
   spec.license       = "MIT"
