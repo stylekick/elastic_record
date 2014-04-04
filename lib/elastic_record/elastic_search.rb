@@ -7,3 +7,4 @@ module ElasticRecord
     end
   end
 end
+
